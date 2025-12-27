@@ -1,0 +1,10 @@
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.42.0
+accelerate==0.24.0
+supervision==0.16.0
+timm==0.9.12
+gradio==4.12.0
+pillow==10.1.0
+numpy==1.24.3
+git+https://github.com/facebookresearch/segment-anything.git
