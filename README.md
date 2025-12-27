@@ -1,15 +1,3 @@
----
-title: Retail Shelf Compliance
-emoji: 🛒
-colorFrom: purple
-colorTo: pink
-sdk: gradio
-sdk_version: 4.12.0
-app_file: app.py
-pinned: false
-license: mit
----
-
 # 🛒 Retail Shelf Compliance System
 
 AI-powered product detection and segmentation for retail environments using **Grounding DINO** and **SAM (Segment Anything Model)**.
